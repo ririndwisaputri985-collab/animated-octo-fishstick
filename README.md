@@ -10,3 +10,5 @@ tugas pertama saya belajar GitHub di SMK
    saya tertarik dengan dunia teknologi dan ingin terus belajar hal baru.
 ##Hobi
   - bermain bola voly
+  - Rebahan
+  - scroll tiktok 
