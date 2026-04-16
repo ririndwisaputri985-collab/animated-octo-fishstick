@@ -2,7 +2,7 @@
 tugas pertama saya belajar GitHub di SMK
 #biodata saya
 **nama**:Ririn Dwi Saputri 
-**kelas**:X Pemasaran
+**kelas**:X Bisnis digital 
 **sekolah**: SMK Muhammadiyah 3 Giriwoyo 
 **cita-cita**:Menjadi guru
 ##tentang saya
