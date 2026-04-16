@@ -12,6 +12,7 @@ tugas pertama saya belajar GitHub di SMK
 **cita-cita**:Menjadi guru
 
 ##tentang saya
+
    Halo! saya sedang belajar pemrograman dan ini adalah repository pertama saya di Github.
    saya tertarik dengan dunia teknologi dan ingin terus belajar hal baru.
    
